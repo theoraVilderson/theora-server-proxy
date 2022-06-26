@@ -1,0 +1,16 @@
+{
+  "name": "bridgeproxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bridgeProxy.js",
+  "scripts": {
+    "start": "node bridgeProxy.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-http-proxy": "^1.6.2"
+  }
+}
